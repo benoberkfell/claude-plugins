@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+*.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+*.tmp

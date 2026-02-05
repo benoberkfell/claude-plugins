@@ -1,0 +1,10 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "Ben"
+  },
+  "metadata": {
+    "description": "Personal collection of Claude Code plugins, skills, and agents"
+  },
+  "plugins": []
+}
