@@ -18,6 +18,12 @@
       "source": "./plugins/dataview",
       "description": "Skills for using Dataview in Obsidian - query syntax, metadata handling, troubleshooting, and JavaScript API",
       "version": "1.0.0"
+    },
+    {
+      "name": "metro",
+      "source": "./plugins/metro",
+      "description": "Skills for Metro, a compile-time dependency injection framework for Kotlin Multiplatform - installation, usage, and debugging",
+      "version": "1.0.0"
     }
   ]
 }

@@ -16,6 +16,12 @@ Skills for using Dataview in Obsidian - query syntax, metadata handling, trouble
 - `dataview-javascript` - Write DataviewJS code for custom logic and rendering
 - `dataview-troubleshooting` - Debug Dataview issues and common problems
 
+### Metro
+Skills for Metro, a compile-time dependency injection framework for Kotlin Multiplatform.
+- `metro-install` - Install and configure Metro in Kotlin Multiplatform projects
+- `metro-usage` - Use Metro annotations and features for dependency injection
+- `metro-debugging` - Debug Metro issues and common problems
+
 ## Adding This Marketplace
 
 To add this marketplace to Claude Code, use the `/plugin marketplace add` command:

@@ -134,6 +134,12 @@ Update version in both:
 - **Location**: `plugins/dataview/`
 - **Documentation**: `plugins/dataview/README.md` contains decision tree and workflow examples
 
+### Metro
+- **Description**: Skills for Metro, a compile-time dependency injection framework for Kotlin Multiplatform
+- **Skills**: metro-install, metro-usage, metro-debugging
+- **Location**: `plugins/metro/`
+- **Repository**: https://github.com/ZacSweers/metro
+
 ## References
 
 - [Claude Code Plugin Documentation](https://code.claude.com/docs/plugins)

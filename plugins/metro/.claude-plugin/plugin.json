@@ -1,0 +1,10 @@
+{
+  "name": "metro",
+  "description": "Skills for Metro, a compile-time dependency injection framework for Kotlin Multiplatform",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ben"
+  },
+  "repository": "https://github.com/ZacSweers/metro",
+  "keywords": ["kotlin", "dependency-injection", "multiplatform", "di"]
+}
