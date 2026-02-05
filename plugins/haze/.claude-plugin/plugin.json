@@ -1,0 +1,5 @@
+{
+  "name": "haze",
+  "description": "Skills for using Haze blur effects library in Compose Multiplatform projects",
+  "version": "1.0.0"
+}

@@ -26,6 +26,12 @@ Skills for Metro, a compile-time dependency injection framework for Kotlin Multi
 Utilities for creating Claude Code plugins from OSS repositories.
 - `create-plugin-from-repo` - Analyze a git repo and generate a plugin with appropriate skills
 
+### Haze
+Skills for using Haze blur effects library in Compose Multiplatform projects.
+- `haze-install` - Install and configure Haze dependencies for Android, iOS, Desktop, Web
+- `haze-usage` - Use hazeSource/hazeEffect modifiers, styling, progressive blurs, masking
+- `haze-debugging` - Troubleshoot platform-specific issues, performance, migration from v1 to v2
+
 ## Adding This Marketplace
 
 To add this marketplace to Claude Code, use the `/plugin marketplace add` command:

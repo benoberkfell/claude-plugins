@@ -145,6 +145,12 @@ Update version in both:
 - **Skills**: create-plugin-from-repo
 - **Location**: `plugins/repo-skill-utils/`
 
+### Haze
+- **Description**: Skills for using Haze blur effects library in Compose Multiplatform projects
+- **Skills**: haze-install, haze-usage, haze-debugging
+- **Location**: `plugins/haze/`
+- **Repository**: https://github.com/chrisbanes/haze
+
 ## References
 
 - [Claude Code Plugin Documentation](https://code.claude.com/docs/plugins)
