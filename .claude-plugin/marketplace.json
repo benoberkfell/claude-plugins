@@ -36,6 +36,12 @@
       "source": "./plugins/haze",
       "description": "Skills for using Haze blur effects library in Compose Multiplatform projects",
       "version": "1.0.0"
+    },
+    {
+      "name": "android-a11y",
+      "source": "./plugins/android-a11y",
+      "description": "Skills for implementing accessible Android apps with Jetpack Compose - semantics, patterns, testing, troubleshooting, focus architecture, scrollable containers, focus restoration, and hybrid View/Compose debugging",
+      "version": "1.1.0"
     }
   ]
 }

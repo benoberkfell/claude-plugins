@@ -151,6 +151,13 @@ Update version in both:
 - **Location**: `plugins/haze/`
 - **Repository**: https://github.com/chrisbanes/haze
 
+### Android A11y
+- **Description**: Skills for implementing accessible Android apps with Jetpack Compose - semantics, patterns, testing, troubleshooting, and advanced debugging
+- **Skills**: android-a11y-semantics, android-a11y-patterns, android-a11y-testing, android-a11y-troubleshooting, android-a11y-focus-architecture, android-a11y-scrollable-a11y, android-a11y-focus-restoration, android-a11y-hybrid-debugging
+- **Location**: `plugins/android-a11y/`
+- **Documentation**: `plugins/android-a11y/README.md` contains decision tree and skill connections diagram
+- **Repository**: https://android.googlesource.com/platform/frameworks/support
+
 ## References
 
 - [Claude Code Plugin Documentation](https://code.claude.com/docs/plugins)
