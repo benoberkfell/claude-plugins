@@ -22,6 +22,10 @@ Skills for Metro, a compile-time dependency injection framework for Kotlin Multi
 - `metro-usage` - Use Metro annotations and features for dependency injection
 - `metro-debugging` - Debug Metro issues and common problems
 
+### Repo Skill Utils
+Utilities for creating Claude Code plugins from OSS repositories.
+- `create-plugin-from-repo` - Analyze a git repo and generate a plugin with appropriate skills
+
 ## Adding This Marketplace
 
 To add this marketplace to Claude Code, use the `/plugin marketplace add` command:

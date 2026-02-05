@@ -24,6 +24,12 @@
       "source": "./plugins/metro",
       "description": "Skills for Metro, a compile-time dependency injection framework for Kotlin Multiplatform - installation, usage, and debugging",
       "version": "1.0.0"
+    },
+    {
+      "name": "repo-skill-utils",
+      "source": "./plugins/repo-skill-utils",
+      "description": "Utilities for creating Claude Code plugins from OSS repositories",
+      "version": "1.0.0"
     }
   ]
 }

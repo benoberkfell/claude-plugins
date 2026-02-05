@@ -140,6 +140,11 @@ Update version in both:
 - **Location**: `plugins/metro/`
 - **Repository**: https://github.com/ZacSweers/metro
 
+### Repo Skill Utils
+- **Description**: Utilities for creating Claude Code plugins from OSS repositories
+- **Skills**: create-plugin-from-repo
+- **Location**: `plugins/repo-skill-utils/`
+
 ## References
 
 - [Claude Code Plugin Documentation](https://code.claude.com/docs/plugins)

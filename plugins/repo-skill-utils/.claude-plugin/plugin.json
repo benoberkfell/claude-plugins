@@ -1,0 +1,5 @@
+{
+  "name": "repo-skill-utils",
+  "description": "Utilities for creating Claude Code plugins from OSS repositories",
+  "version": "1.0.0"
+}
