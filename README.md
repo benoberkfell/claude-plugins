@@ -35,7 +35,7 @@ Or if working locally:
 Once the marketplace is added, install individual plugins:
 
 ```bash
-/plugin install plugin-name@claude-plugins
+/plugin install plugin-name@ben-plugins
 ```
 
 ## Adding New Plugins

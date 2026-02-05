@@ -43,7 +43,7 @@ plugins/plugin-name/
 ### How Plugins Are Referenced
 
 In `marketplace.json`, each plugin entry includes:
-- `name` - Kebab-case identifier (public-facing, used in install commands)
+- `name` - Kebab-case identifier (public-facing, used in install commands). Note: Cannot contain "claude", "anthropic", or official-sounding combinations as these are reserved for Anthropic
 - `source` - Relative path to plugin directory (relative paths only work for git-based distribution)
 - `description` - Brief description users see when discovering plugins
 - `version` - Semantic version for the plugin
