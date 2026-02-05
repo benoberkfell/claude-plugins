@@ -2,12 +2,26 @@
 
 A personal collection of Claude Code plugins, skills, and agents.
 
+## Available Plugins
+
+### Showkase
+Skills for setting up and using Airbnb's Showkase library in Jetpack Compose projects.
+- `showkase-install` - Install and configure Showkase in Android/Compose projects
+- `showkase-usage` - Use Showkase annotations to document Compose UI elements
+
+### Dataview
+Skills for using Dataview in Obsidian - query syntax, metadata handling, troubleshooting, and JavaScript API.
+- `dataview-metadata` - Add and structure metadata fields in Obsidian notes
+- `dataview-queries` - Write DQL queries for listing, filtering, grouping data
+- `dataview-javascript` - Write DataviewJS code for custom logic and rendering
+- `dataview-troubleshooting` - Debug Dataview issues and common problems
+
 ## Adding This Marketplace
 
 To add this marketplace to Claude Code, use the `/plugin marketplace add` command:
 
 ```bash
-/plugin marketplace add https://github.com/ben/claude-plugins
+/plugin marketplace add https://github.com/benoberkfell/claude-plugins
 ```
 
 Or if working locally:

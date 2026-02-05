@@ -1,0 +1,8 @@
+{
+  "name": "dataview",
+  "description": "Skills for using Dataview in Obsidian - query syntax, metadata handling, troubleshooting, and JavaScript API",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ben"
+  }
+}

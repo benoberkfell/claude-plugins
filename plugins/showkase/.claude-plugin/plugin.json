@@ -1,0 +1,8 @@
+{
+  "name": "showkase",
+  "description": "Skills for setting up and using Airbnb's Showkase library in Jetpack Compose projects",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ben"
+  }
+}

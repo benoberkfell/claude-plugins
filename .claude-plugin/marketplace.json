@@ -6,5 +6,18 @@
   "metadata": {
     "description": "Personal collection of Claude Code plugins, skills, and agents"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "showkase",
+      "source": "./plugins/showkase",
+      "description": "Skills for setting up and using Airbnb's Showkase library in Jetpack Compose projects",
+      "version": "1.0.0"
+    },
+    {
+      "name": "dataview",
+      "source": "./plugins/dataview",
+      "description": "Skills for using Dataview in Obsidian - query syntax, metadata handling, troubleshooting, and JavaScript API",
+      "version": "1.0.0"
+    }
+  ]
 }
